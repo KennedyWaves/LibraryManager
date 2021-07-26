@@ -1,0 +1,27 @@
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\bin\Debug\Library_manager.exe
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\bin\Debug\Library_manager.pdb
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.csprojResolveAssemblyReference.cache
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\MainWindow.baml
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\MainWindow.g.cs
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\App.g.cs
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\Library_manager_MarkupCompile.cache
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.g.resources
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.Properties.Resources.resources
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.csproj.GenerateResource.Cache
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.exe
+c:\users\waves\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.pdb
+C:\Users\WAVES\documents\visual studio 2013\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.add.resources
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.exe
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.pdb
+D:\Projects\Library_manager\Library_manager\bin\Debug\Library_manager.exe
+D:\Projects\Library_manager\Library_manager\bin\Debug\Library_manager.pdb
+D:\Projects\Library_manager\Library_manager\obj\Debug\MainWindow.baml
+D:\Projects\Library_manager\Library_manager\obj\Debug\MainWindow.g.cs
+D:\Projects\Library_manager\Library_manager\obj\Debug\App.g.cs
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager_MarkupCompile.cache
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.g.resources
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.add.resources
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.Properties.Resources.resources
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.csproj.GenerateResource.Cache
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.csprojResolveAssemblyReference.cache
+D:\Projects\Library_manager\Library_manager\obj\Debug\Library_manager.edit.resources
